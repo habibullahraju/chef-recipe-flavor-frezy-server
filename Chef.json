@@ -1,0 +1,58 @@
+ [
+        {
+          "id": 1,
+          "chefPicture": "https://example.com/chef1.jpg",
+          "chefName": "John Smith",
+          "yearsOfExperience": 15,
+          "numberOfRecipes": 87,
+          "likes": 243,
+          "viewRecipesButton": "https://example.com/chef1/recipes"
+        },
+        {
+          "id": 2,
+          "chefPicture": "https://example.com/chef2.jpg",
+          "chefName": "Jane Doe",
+          "yearsOfExperience": 12,
+          "numberOfRecipes": 62,
+          "likes": 179,
+          "viewRecipesButton": "https://example.com/chef2/recipes"
+        },
+        {
+          "id": 3,
+          "chefPicture": "https://example.com/chef3.jpg",
+          "chefName": "David Lee",
+          "yearsOfExperience": 20,
+          "numberOfRecipes": 102,
+          "likes": 314,
+          "viewRecipesButton": "https://example.com/chef3/recipes"
+        },
+        {
+          "id": 4,
+          "chefPicture": "https://example.com/chef4.jpg",
+          "chefName": "Rachel Kim",
+          "yearsOfExperience": 8,
+          "numberOfRecipes": 46,
+          "likes": 125,
+          "viewRecipesButton": "https://example.com/chef4/recipes"
+        },
+        {
+          "id": 5,
+          "chefPicture": "https://example.com/chef5.jpg",
+          "chefName": "Michael Chen",
+          "yearsOfExperience": 18,
+          "numberOfRecipes": 93,
+          "likes": 268,
+          "viewRecipesButton": "https://example.com/chef5/recipes"
+        },
+        {
+          "id": 6,
+          "chefPicture": "https://example.com/chef6.jpg",
+          "chefName": "Amy Lee",
+          "yearsOfExperience": 10,
+          "numberOfRecipes": 52,
+          "likes": 143,
+          "viewRecipesButton": "https://example.com/chef6/recipes"
+        }
+ ]
+
+  
