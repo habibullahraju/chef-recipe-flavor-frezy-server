@@ -6,7 +6,8 @@
           "yearsOfExperience": 15,
           "numberOfRecipes": 87,
           "likes": 243,
-          "viewRecipesButton": "https://example.com/chef1/recipes"
+          "viewRecipesButton": "https://example.com/chef1/recipes",
+          "shortDescription": "John is a classically trained chef with a passion for blending flavors from around the world. He has worked in some of the top restaurants in the country and loves to experiment with new ingredients and techniques."
         },
         {
           "id": 2,
@@ -15,7 +16,8 @@
           "yearsOfExperience": 12,
           "numberOfRecipes": 62,
           "likes": 179,
-          "viewRecipesButton": "https://example.com/chef2/recipes"
+          "viewRecipesButton": "https://example.com/chef2/recipes",
+          "shortDescription": "Jane has a background in pastry and dessert making, but loves to create savory dishes as well. Her specialties include homemade pasta and seafood."
         },
         {
           "id": 3,
@@ -24,7 +26,8 @@
           "yearsOfExperience": 20,
           "numberOfRecipes": 102,
           "likes": 314,
-          "viewRecipesButton": "https://example.com/chef3/recipes"
+          "viewRecipesButton": "https://example.com/chef3/recipes",
+          "shortDescription": "David is a Korean-American chef who loves to incorporate his heritage into his cooking. His specialties include spicy stir-fry dishes and fusion cuisine."
         },
         {
           "id": 4,
@@ -33,7 +36,8 @@
           "yearsOfExperience": 8,
           "numberOfRecipes": 46,
           "likes": 125,
-          "viewRecipesButton": "https://example.com/chef4/recipes"
+          "viewRecipesButton": "https://example.com/chef4/recipes",
+          "shortDescription": "Rachel is a young and talented chef who has a gift for pairing unexpected flavors. She loves to experiment with new ingredients and techniques, and is always looking for ways to innovate in the kitchen."
         },
         {
           "id": 5,
@@ -42,7 +46,8 @@
           "yearsOfExperience": 18,
           "numberOfRecipes": 93,
           "likes": 268,
-          "viewRecipesButton": "https://example.com/chef5/recipes"
+          "viewRecipesButton": "https://example.com/chef5/recipes",
+          "shortDescription": "Michael is a master of Cantonese cuisine, and has spent years perfecting his recipes for classic dishes like dim sum and wonton soup. He loves to share his passion for Chinese cooking with others."
         },
         {
           "id": 6,
@@ -51,8 +56,7 @@
           "yearsOfExperience": 10,
           "numberOfRecipes": 52,
           "likes": 143,
-          "viewRecipesButton": "https://example.com/chef6/recipes"
+          "viewRecipesButton": "https://example.com/chef6/recipes",
+          "shortDescription": "Amy is a vegetarian chef who loves to create healthy and delicious plant-based meals. She specializes in vegan baking and international cuisine, and is always experimenting with new ingredients and techniques."
         }
  ]
-
-  
