@@ -7,7 +7,45 @@
           "numberOfRecipes": 87,
           "likes": 243,
           "viewRecipesButton": "https://example.com/chef1/recipes",
-          "shortDescription": "John is a classically trained chef with a passion for blending flavors from around the world. He has worked in some of the top restaurants in the country and loves to experiment with new ingredients and techniques."
+          "shortDescription": "John is a classically trained chef with a passion for blending flavors from around the world. He has worked in some of the top restaurants in the country and loves to experiment with new ingredients and techniques.",
+          "cards": [
+            {
+              "recipeName": "Kung Pao Chicken",
+              "ingredients": [
+                "Chicken breast",
+                "Soy sauce",
+                "Cornstarch",
+                "Green onions",
+                "Peanuts"
+              ],
+              "cookingMethod": "Stir-fry chicken with soy sauce and cornstarch, then add green onions and peanuts.",
+              "rating": 4.5
+            },
+            {
+              "recipeName": "Hot and Sour Soup",
+              "ingredients": [
+                "Chicken broth",
+                "Vinegar",
+                "Tofu",
+                "Egg",
+                "Mushrooms"
+              ],
+              "cookingMethod": "Boil chicken broth with vinegar, then add tofu, egg, and mushrooms.",
+              "rating": 4.0
+            },
+            {
+              "recipeName": "Egg Fried Rice",
+              "ingredients": [
+                "Rice",
+                "Egg",
+                "Green peas",
+                "Carrots",
+                "Soy sauce"
+              ],
+              "cookingMethod": "Cook rice and scramble egg, then stir-fry with green peas, carrots, and soy sauce.",
+              "rating": 4.2
+            }
+          ]
         },
         {
           "id": 2,
@@ -17,7 +55,45 @@
           "numberOfRecipes": 62,
           "likes": 179,
           "viewRecipesButton": "https://example.com/chef2/recipes",
-          "shortDescription": "Jane has a background in pastry and dessert making, but loves to create savory dishes as well. Her specialties include homemade pasta and seafood."
+          "shortDescription": "Jane has a background in pastry and dessert making, but loves to create savory dishes as well. Her specialties include homemade pasta and seafood.",
+          "cards": [
+            {
+              "recipeName": "Spicy Garlic Shrimp",
+              "ingredients": [
+                "1 lb. large shrimp, peeled and deveined",
+                "1/2 tsp. salt",
+                "1/2 tsp. black pepper",
+                "3 tbsp. olive oil",
+                "3 garlic cloves, minced"
+              ],
+              "cookingMethod": "In a large skillet, heat the olive oil over medium-high heat. Add the garlic and cook for 1-2 minutes until fragrant. Add the shrimp and cook for 2-3 minutes per side until pink and cooked through. Season with salt and pepper to taste.",
+              "rating": 4.5
+            },
+            {
+              "recipeName": "Chicken Alfredo",
+              "ingredients": [
+                "1 lb. fettuccine",
+                "1 lb. boneless, skinless chicken breasts, cut into bite-sized pieces",
+                "2 tbsp. butter",
+                "2 garlic cloves, minced",
+                "1 cup heavy cream"
+              ],
+              "cookingMethod": "Cook the fettuccine according to package instructions. In a large skillet, melt the butter over medium heat. Add the chicken and garlic and cook for 5-7 minutes until browned and cooked through. Add the heavy cream and bring to a simmer. Add the cooked fettuccine and toss to combine. Serve hot.",
+              "rating": 4.2
+            },
+            {
+              "recipeName": "Roasted Vegetables",
+              "ingredients": [
+                "1 lb. carrots, peeled and chopped",
+                "1 lb. sweet potatoes, peeled and chopped",
+                "1 lb. brussels sprouts, trimmed and halved",
+                "2 tbsp. olive oil",
+                "1/2 tsp. salt"
+              ],
+              "cookingMethod": "Preheat the oven to 400°F. In a large bowl, toss the vegetables with the olive oil and salt. Spread the vegetables in a single layer on a baking sheet. Roast for 25-30 minutes, stirring once or twice, until the vegetables are tender and caramelized.",
+              "rating": 4.7
+            }
+          ]
         },
         {
           "id": 3,
@@ -27,7 +103,45 @@
           "numberOfRecipes": 102,
           "likes": 314,
           "viewRecipesButton": "https://example.com/chef3/recipes",
-          "shortDescription": "David is a Korean-American chef who loves to incorporate his heritage into his cooking. His specialties include spicy stir-fry dishes and fusion cuisine."
+          "shortDescription": "David is a Korean-American chef who loves to incorporate his heritage into his cooking. His specialties include spicy stir-fry dishes and fusion cuisine.",
+          "cards": [
+            {
+              "recipeName": "Spicy Garlic Shrimp",
+              "ingredients": [
+                "1 lb. large shrimp, peeled and deveined",
+                "1/2 tsp. salt",
+                "1/2 tsp. black pepper",
+                "3 tbsp. olive oil",
+                "3 garlic cloves, minced"
+              ],
+              "cookingMethod": "In a large skillet, heat the olive oil over medium-high heat. Add the garlic and cook for 1-2 minutes until fragrant. Add the shrimp and cook for 2-3 minutes per side until pink and cooked through. Season with salt and pepper to taste.",
+              "rating": 4.5
+            },
+            {
+              "recipeName": "Chicken Alfredo",
+              "ingredients": [
+                "1 lb. fettuccine",
+                "1 lb. boneless, skinless chicken breasts, cut into bite-sized pieces",
+                "2 tbsp. butter",
+                "2 garlic cloves, minced",
+                "1 cup heavy cream"
+              ],
+              "cookingMethod": "Cook the fettuccine according to package instructions. In a large skillet, melt the butter over medium heat. Add the chicken and garlic and cook for 5-7 minutes until browned and cooked through. Add the heavy cream and bring to a simmer. Add the cooked fettuccine and toss to combine. Serve hot.",
+              "rating": 4.2
+            },
+            {
+              "recipeName": "Roasted Vegetables",
+              "ingredients": [
+                "1 lb. carrots, peeled and chopped",
+                "1 lb. sweet potatoes, peeled and chopped",
+                "1 lb. brussels sprouts, trimmed and halved",
+                "2 tbsp. olive oil",
+                "1/2 tsp. salt"
+              ],
+              "cookingMethod": "Preheat the oven to 400°F. In a large bowl, toss the vegetables with the olive oil and salt. Spread the vegetables in a single layer on a baking sheet. Roast for 25-30 minutes, stirring once or twice, until the vegetables are tender and caramelized.",
+              "rating": 4.7
+            }
+          ]
         },
         {
           "id": 4,
@@ -37,7 +151,45 @@
           "numberOfRecipes": 46,
           "likes": 125,
           "viewRecipesButton": "https://example.com/chef4/recipes",
-          "shortDescription": "Rachel is a young and talented chef who has a gift for pairing unexpected flavors. She loves to experiment with new ingredients and techniques, and is always looking for ways to innovate in the kitchen."
+          "shortDescription": "Rachel is a young and talented chef who has a gift for pairing unexpected flavors. She loves to experiment with new ingredients and techniques, and is always looking for ways to innovate in the kitchen.",
+          "cards": [
+            {
+              "recipeName": "Spicy Garlic Shrimp",
+              "ingredients": [
+                "1 lb. large shrimp, peeled and deveined",
+                "1/2 tsp. salt",
+                "1/2 tsp. black pepper",
+                "3 tbsp. olive oil",
+                "3 garlic cloves, minced"
+              ],
+              "cookingMethod": "In a large skillet, heat the olive oil over medium-high heat. Add the garlic and cook for 1-2 minutes until fragrant. Add the shrimp and cook for 2-3 minutes per side until pink and cooked through. Season with salt and pepper to taste.",
+              "rating": 4.5
+            },
+            {
+              "recipeName": "Chicken Alfredo",
+              "ingredients": [
+                "1 lb. fettuccine",
+                "1 lb. boneless, skinless chicken breasts, cut into bite-sized pieces",
+                "2 tbsp. butter",
+                "2 garlic cloves, minced",
+                "1 cup heavy cream"
+              ],
+              "cookingMethod": "Cook the fettuccine according to package instructions. In a large skillet, melt the butter over medium heat. Add the chicken and garlic and cook for 5-7 minutes until browned and cooked through. Add the heavy cream and bring to a simmer. Add the cooked fettuccine and toss to combine. Serve hot.",
+              "rating": 4.2
+            },
+            {
+              "recipeName": "Roasted Vegetables",
+              "ingredients": [
+                "1 lb. carrots, peeled and chopped",
+                "1 lb. sweet potatoes, peeled and chopped",
+                "1 lb. brussels sprouts, trimmed and halved",
+                "2 tbsp. olive oil",
+                "1/2 tsp. salt"
+              ],
+              "cookingMethod": "Preheat the oven to 400°F. In a large bowl, toss the vegetables with the olive oil and salt. Spread the vegetables in a single layer on a baking sheet. Roast for 25-30 minutes, stirring once or twice, until the vegetables are tender and caramelized.",
+              "rating": 4.7
+            }
+          ]
         },
         {
           "id": 5,
@@ -47,7 +199,45 @@
           "numberOfRecipes": 93,
           "likes": 268,
           "viewRecipesButton": "https://example.com/chef5/recipes",
-          "shortDescription": "Michael is a master of Cantonese cuisine, and has spent years perfecting his recipes for classic dishes like dim sum and wonton soup. He loves to share his passion for Chinese cooking with others."
+          "shortDescription": "Michael is a master of Cantonese cuisine, and has spent years perfecting his recipes for classic dishes like dim sum and wonton soup. He loves to share his passion for Chinese cooking with others.",
+          "cards": [
+            {
+              "recipeName": "Spicy Garlic Shrimp",
+              "ingredients": [
+                "1 lb. large shrimp, peeled and deveined",
+                "1/2 tsp. salt",
+                "1/2 tsp. black pepper",
+                "3 tbsp. olive oil",
+                "3 garlic cloves, minced"
+              ],
+              "cookingMethod": "In a large skillet, heat the olive oil over medium-high heat. Add the garlic and cook for 1-2 minutes until fragrant. Add the shrimp and cook for 2-3 minutes per side until pink and cooked through. Season with salt and pepper to taste.",
+              "rating": 4.5
+            },
+            {
+              "recipeName": "Chicken Alfredo",
+              "ingredients": [
+                "1 lb. fettuccine",
+                "1 lb. boneless, skinless chicken breasts, cut into bite-sized pieces",
+                "2 tbsp. butter",
+                "2 garlic cloves, minced",
+                "1 cup heavy cream"
+              ],
+              "cookingMethod": "Cook the fettuccine according to package instructions. In a large skillet, melt the butter over medium heat. Add the chicken and garlic and cook for 5-7 minutes until browned and cooked through. Add the heavy cream and bring to a simmer. Add the cooked fettuccine and toss to combine. Serve hot.",
+              "rating": 4.2
+            },
+            {
+              "recipeName": "Roasted Vegetables",
+              "ingredients": [
+                "1 lb. carrots, peeled and chopped",
+                "1 lb. sweet potatoes, peeled and chopped",
+                "1 lb. brussels sprouts, trimmed and halved",
+                "2 tbsp. olive oil",
+                "1/2 tsp. salt"
+              ],
+              "cookingMethod": "Preheat the oven to 400°F. In a large bowl, toss the vegetables with the olive oil and salt. Spread the vegetables in a single layer on a baking sheet. Roast for 25-30 minutes, stirring once or twice, until the vegetables are tender and caramelized.",
+              "rating": 4.7
+            }
+          ]
         },
         {
           "id": 6,
@@ -57,6 +247,44 @@
           "numberOfRecipes": 52,
           "likes": 143,
           "viewRecipesButton": "https://example.com/chef6/recipes",
-          "shortDescription": "Amy is a vegetarian chef who loves to create healthy and delicious plant-based meals. She specializes in vegan baking and international cuisine, and is always experimenting with new ingredients and techniques."
+          "shortDescription": "Amy is a vegetarian chef who loves to create healthy and delicious plant-based meals. She specializes in vegan baking and international cuisine, and is always experimenting with new ingredients and techniques.",
+          "cards": [
+            {
+              "recipeName": "Spicy Garlic Shrimp",
+              "ingredients": [
+                "1 lb. large shrimp, peeled and deveined",
+                "1/2 tsp. salt",
+                "1/2 tsp. black pepper",
+                "3 tbsp. olive oil",
+                "3 garlic cloves, minced"
+              ],
+              "cookingMethod": "In a large skillet, heat the olive oil over medium-high heat. Add the garlic and cook for 1-2 minutes until fragrant. Add the shrimp and cook for 2-3 minutes per side until pink and cooked through. Season with salt and pepper to taste.",
+              "rating": 4.5
+            },
+            {
+              "recipeName": "Chicken Alfredo",
+              "ingredients": [
+                "1 lb. fettuccine",
+                "1 lb. boneless, skinless chicken breasts, cut into bite-sized pieces",
+                "2 tbsp. butter",
+                "2 garlic cloves, minced",
+                "1 cup heavy cream"
+              ],
+              "cookingMethod": "Cook the fettuccine according to package instructions. In a large skillet, melt the butter over medium heat. Add the chicken and garlic and cook for 5-7 minutes until browned and cooked through. Add the heavy cream and bring to a simmer. Add the cooked fettuccine and toss to combine. Serve hot.",
+              "rating": 4.2
+            },
+            {
+              "recipeName": "Roasted Vegetables",
+              "ingredients": [
+                "1 lb. carrots, peeled and chopped",
+                "1 lb. sweet potatoes, peeled and chopped",
+                "1 lb. brussels sprouts, trimmed and halved",
+                "2 tbsp. olive oil",
+                "1/2 tsp. salt"
+              ],
+              "cookingMethod": "Preheat the oven to 400°F. In a large bowl, toss the vegetables with the olive oil and salt. Spread the vegetables in a single layer on a baking sheet. Roast for 25-30 minutes, stirring once or twice, until the vegetables are tender and caramelized.",
+              "rating": 4.7
+            }
+          ]
         }
  ]
