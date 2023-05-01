@@ -1,7 +1,7 @@
  [
         {
           "id": 1,
-          "chefPicture": "https://example.com/chef1.jpg",
+          "chefPicture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
           "chefName": "John Smith",
           "yearsOfExperience": 15,
           "numberOfRecipes": 87,
@@ -49,7 +49,7 @@
         },
         {
           "id": 2,
-          "chefPicture": "https://example.com/chef2.jpg",
+          "chefPicture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
           "chefName": "Jane Doe",
           "yearsOfExperience": 12,
           "numberOfRecipes": 62,
@@ -97,7 +97,7 @@
         },
         {
           "id": 3,
-          "chefPicture": "https://example.com/chef3.jpg",
+          "chefPicture": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
           "chefName": "David Lee",
           "yearsOfExperience": 20,
           "numberOfRecipes": 102,
@@ -145,7 +145,7 @@
         },
         {
           "id": 4,
-          "chefPicture": "https://example.com/chef4.jpg",
+          "chefPicture": "https://plus.unsplash.com/premium_photo-1673830185119-71299fe32751?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=408&q=80",
           "chefName": "Rachel Kim",
           "yearsOfExperience": 8,
           "numberOfRecipes": 46,
@@ -193,7 +193,7 @@
         },
         {
           "id": 5,
-          "chefPicture": "https://example.com/chef5.jpg",
+          "chefPicture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
           "chefName": "Michael Chen",
           "yearsOfExperience": 18,
           "numberOfRecipes": 93,
@@ -241,7 +241,7 @@
         },
         {
           "id": 6,
-          "chefPicture": "https://example.com/chef6.jpg",
+          "chefPicture": "https://images.unsplash.com/photo-1543716627-839b54c40519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
           "chefName": "Amy Lee",
           "yearsOfExperience": 10,
           "numberOfRecipes": 52,
